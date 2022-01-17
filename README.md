@@ -1,2 +1,2 @@
-# activit-DGTIC
+# activity-DGTIC
 application web de suivi des activités de la DGTIC
